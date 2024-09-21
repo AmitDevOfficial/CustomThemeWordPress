@@ -1,0 +1,37 @@
+/*
+Theme Name: shop-child
+Template: shop
+Author: Amit Vishwakarma
+Description: A description of the parent theme to child theme
+Version: 1.0.0
+*/
+.mainContent {
+    color: yellow;
+}
+
+
+ul li{
+    list-style: none !important;
+}   
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+.collapse{
+    display: flex !important;
+}
+
+.page-header h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.entry-title a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.entry-summary {
+    margin-bottom: 20px;
+}
